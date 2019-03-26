@@ -76,6 +76,7 @@ table {
     transition-duration: 250ms;
     text-align: center;
     margin-top: 3em;
+	margin-bottom: 3em;
 }
 .site-presentation p{
     margin-top: 2em;
