@@ -73,9 +73,9 @@ table {
 .present_h1{
 	text-align:center;
 	margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     font-family: 'Tangerine', cursive;
-    font-size: 40px;
+    font-size: 70px;
 	color: #1a3764;
 }
 .site-presentation{
@@ -121,4 +121,13 @@ table {
 
 .site-presentation:hover a{
     filter: opacity(100);
+}
+.behance{
+	font-family: 'Lato', sans-serif;
+    font-size: 25px;
+	font-decoration:underline;
+	transition-duration:250ms;
+}
+.behance:hover{
+	color:#abd5ff;
 }
