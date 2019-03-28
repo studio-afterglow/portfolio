@@ -125,7 +125,7 @@ table {
 .behance{
 	font-family: 'Lato', sans-serif;
     font-size: 25px;
-	font-decoration:underline;
+	text-decoration:underline;
 	transition-duration:250ms;
 	cursor:pointer;
 	text-align:center;
