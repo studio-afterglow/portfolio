@@ -127,6 +127,7 @@ table {
     font-size: 25px;
 	font-decoration:underline;
 	transition-duration:250ms;
+	cursor:pointer;
 }
 .behance:hover{
 	color:#abd5ff;
