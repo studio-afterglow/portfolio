@@ -92,6 +92,10 @@ table {
     background-image: url(compass.png);
     background-size: cover;
 }
+.kalait{
+	background-image: url(Screenshot_2019-03-28 Kalait - everyday life with coffee and turquoise.png);
+	background-size: cover;
+}
 .presentation-inside{
     height: 100%;
 }
