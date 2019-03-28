@@ -129,6 +129,7 @@ table {
 	transition-duration:250ms;
 	cursor:pointer;
 	text-align:center;
+	color:black;
 }
 .behance:hover{
 	color:#abd5ff;
