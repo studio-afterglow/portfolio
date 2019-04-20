@@ -104,6 +104,10 @@ table {
 	background-image: url(kalait.png);
 	background-size: cover;
 }
+.focal{
+	background-image: url(focal.png);
+	background-size: cover;
+}
 .presentation-inside{
     height: 100%;
 }
